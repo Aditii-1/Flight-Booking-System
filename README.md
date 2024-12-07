@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![icon_logo](https://user-images.githubusercontent.com/56977388/178157849-38d2f2c3-1c93-4dac-9577-57f3a752e2cd.png)
 
 
@@ -67,3 +68,7 @@ This is the capstone project for CS50's Web Programming with Python and Javascri
 
 
 Project video [https://youtu.be/3tD4OsuGmoo](https://youtu.be/3tD4OsuGmoo)
+=======
+# Flight-Booking-System
+The Flight Management System streamlines bookings and offers secure tools for administrators. Customers can book one-way, view/cancel bookings, and receive PDF confirmations. Administrators efficiently manage flights and bookings, update details, and delete flights through a secure dashboard, ensuring convenience for all users.
+>>>>>>> 68001ab946c2342831615b5a289d89b8fcae271b
